@@ -8,7 +8,7 @@
 </p>
 
 ## About this Project
-This is a sample crud using laravel that has been created on a seminar last January 26, 2014 at the Pamantasan ng Lungsod ng Maynila
+This is a sample crud using laravel that has been created on a seminar last January 26, 2017 at the Pamantasan ng Lungsod ng Maynila
 
 ### Installation
 * Download the Project
